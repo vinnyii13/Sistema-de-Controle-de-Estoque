@@ -1,7 +1,7 @@
 # 📦 Sistema de Controle de Estoque
 
 Projeto simples em HTML, CSS e JavaScript com LocalStorage para controle de produtos em estoque.
-![Capturar](https://github.com/user-attachments/assets/e509950b-404f-4987-8740-c06e14aa1415)
+
 
 ## Funcionalidades
 - Cadastrar produtos
@@ -13,6 +13,9 @@ Projeto simples em HTML, CSS e JavaScript com LocalStorage para controle de prod
 - HTML5
 - CSS3
 - JavaScript
+- 
+📸 Captura de tela
+![image](https://github.com/user-attachments/assets/a705a2da-7f9c-4bbb-89ec-4a27d9f66b64)
 
 ## Executar
 1. Clone o projeto:
